@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bypass_power">旁路供电</string>
+    <string name="bypass_power_summary">插电时停止给电池充电，改由电源直接给手机供电。使用前需要授予根权限。</string>
+    <string name="add_tile">添加到控制中心</string>
+    <string name="add_tile_manually">当前系统请到控制中心编辑页，手动添加“旁路供电”。</string>
+    <string name="add_tile_done">磁贴已添加</string>
+    <string name="add_tile_failed">未能添加磁贴，请到控制中心手动添加。</string>
+</resources>

@@ -1,0 +1,6 @@
+-keep class com.luckyzyx.bypasspower.BypassPowerService { *; }
+-keep class com.luckyzyx.bypasspower.BypassPowerService$Controller { *; }
+-keep class com.luckyzyx.bypasspower.BypassPowerService$ControllerBinder { *; }
+-keep class com.luckyzyx.bypasspower.IBypassPowerController { *; }
+-keep class com.luckyzyx.bypasspower.IBypassPowerController$** { *; }
+-keep class com.luckyzyx.bypasspower.BypassPowerModeTile { *; }

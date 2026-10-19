@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bypass_power">Bypass Power / Kablodan güç alma direkt şebek üzerinden anakarta verme (Pil korumak aşındırmamak amaçlı Bypass şarj etme / Baypas güç)</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bypass_power">Bypass Power</string>
+    <string name="bypass_power_summary">While plugged in, stop charging the battery and power the phone directly. Root access is required.</string>
+    <string name="add_tile">Add to Quick Settings</string>
+    <string name="add_tile_manually">On this system version, add the Bypass Power tile from the Quick Settings editor.</string>
+    <string name="add_tile_done">Tile added</string>
+    <string name="add_tile_failed">Could not add the tile. Add it manually from Quick Settings.</string>
+</resources>
